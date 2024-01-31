@@ -1,5 +1,5 @@
 import RouterContainer from './components/RouterContainer';
-import './App.scss';
+import './app.scss';
 
 /*
 * Formik ve Yup, React tabanlı web uygulamalarında form yönetimi ve doğrulama işlemlerini kolaylaştırmak için kullanılan kütüphanelerdir.
